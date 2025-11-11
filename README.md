@@ -1,3 +1,3 @@
-# Glia Beta testing on blank page
+# Glia Testing
 
-Open https://salemove.github.io/glia-beta-blank/ for preview.
+[Open https://salemove.github.io/glia-beta-blank/ for preview.](https://charliegomez-glia.github.io/TestingCESite2/)
